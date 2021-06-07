@@ -1,0 +1,11 @@
+_build
+Library
+Logs
+obj
+Recordings
+UserSettings
+.vsconfig
+Assembly-CSharp
+Assembly-CSharp-Editor
+Assembly-CSharp-firstpass
+Feedz Game.sln
